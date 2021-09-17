@@ -1,0 +1,56 @@
+name: DeuFeiTage
+authorName: MicMun
+packageName: com.luteapp.deufeitage
+license: GPLv3
+authorEmail: micmun@micmun.de
+sourceCode: https://codeberg.org/MicMun/deufeitage
+issueTracker: https://codeberg.org/MicMun/deufeitage/issues
+icon: https://codeberg.org/MicMun/deufeitage/raw/branch/master/fastlane/metadata/android/de/images/icon.png
+
+localized:
+  en-US:
+    description: |-
+      This app can show all german holidays, only the common holidays in all german states or the holidays of a
+      selected state.
+      You can also choose a year to see the holidays. The range is between four years into the past until four years
+      in the future.
+      With one touch one a holiday you see a description of the holiday.
+      The app shows also the days until the holiday (or to the past holiday).
+    summary: DeuFeiTage shows the holidays of germany and his states.
+    whatsNew: |-
+      + Initial in SkyDroid
+      + UI reimplement with Android Jetpack Compose
+    phoneScreenshotsBaseUrl: https://codeberg.org/MicMun/deufeitage/raw/branch/master/fastlane/metadata/android/en-US/images/phoneScreenshots/
+    phoneScreenshots:
+      - screen_deufeitage_light.png
+      - screen_deufeitage_dark.png
+  de-DE:
+    description: |-
+      Diese App zeigt alle deutschen Feiertage, nur bundeseinheitliche Feiertage oder die Feiertage eines
+      ausgewählten Bundeslands an.
+      Man kann ein Jahr auswählen, dessen Feiertage man sehen will. Die Jahre liegen zwischen vier Jahre zurück bis vier
+      Jahre in die Zukunft.
+      Mit einem Touch auf einen Feiertag wird eine Beschreibung angezeigt.
+      Die App zeigt auch die Anzahl an Tage an bis zum Feiertag (oder seit dem vergangenen Feiertag).
+    summary: DeuFeiTage zeigt die Feiertage für die einzelnen Bundesländer von Deutschland.
+    whatsNew: |-
+      + Initial in SkyDroid
+      + Benutzeroberfläche in Android Jetpack Compose neuimplementiert
+    phoneScreenshotsBaseUrl: https://codeberg.org/MicMun/deufeitage/raw/branch/master/fastlane/metadata/android/de/images/phoneScreenshots/
+    phoneScreenshots:
+      - screen_deufeitage_light.png
+      - screen_deufeitage_dark.png
+
+# !!! DO NO EDIT BELOW THIS LINE !!!
+
+builds:
+  - versionName: 5.0.0
+    versionCode: 500
+    sha256: 20f9ac2d69cfe174383f46ababfdd1ae696371cb89f8d1236f3b5260c797cecf
+    apkLink: sia://_AnAWRAdud6JG7PrUlmVbAlkAyOlA6k2qal8wyD9Zm8Iyg
+
+currentVersionName: 5.0.0
+currentVersionCode: 500
+
+added: 1629119630468
+lastUpdated: 1629119801339

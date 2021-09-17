@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Name der App fuer android:label in manifest.xml -->
+    <string name="app_name" translatable="false">DeuFeiTage Smart</string>
+    <string name="buy" translatable="false">BUY</string>
+    <string name="premium" translatable="false">Premium</string>
+</resources>

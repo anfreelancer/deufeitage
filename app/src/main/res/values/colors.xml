@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#04AE9E</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <color name="colorMiddle">#FF0000</color>
+    <color name="colorStart">#FFFF00</color>
+
+    <color name="highlightNextHoliday">#F5F6CE</color>
+    <color name="highlightNextHolidayDark">#5E610B</color>
+
+    <color name="selectedYear">#33B5E5</color>
+</resources>
